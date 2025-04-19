@@ -1,0 +1,18 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "doctor": "Dr. Smith",
+      "date": "2025-04-20",
+      "reason": "Fever and headache"
+    }
+  ],
+  "medications": [
+    {
+      "id": 1,
+      "name": "Paracetamol",
+      "dosage": "500mg",
+      "time": "Twice a day"
+    }
+  ]
+}
